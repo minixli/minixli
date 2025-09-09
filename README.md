@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hello 👋
+
+This is my coding corner.  
+A place for experiments, side projects, and curious ideas.  
+
+✨ If you also enjoy coding, I hope you find something positive here.
 
 <!--
 **minixli/minixli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
