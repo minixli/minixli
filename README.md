@@ -1,9 +1,18 @@
-# Hello 👋
+# Welcome 👋
 
 This is my coding corner.  
 A place for experiments, side projects, and curious ideas.  
 
-✨ If you also enjoy coding, I hope you find something positive here.
+---
+
+## 📂 My Playgrounds
+
+- [**js-playground**](https://github.com/MinixLi/js-playground) → JavaScript experiments and toys, old and new  
+- [**ruby-playground**](https://github.com/MinixLi/ruby-playground) → Ruby experiments, event-driven servers
+
+---
+
+✨ If you also enjoy coding, I hope you find something positive here. ✨
 
 <!--
 **minixli/minixli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
